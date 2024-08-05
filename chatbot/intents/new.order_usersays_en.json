@@ -1,0 +1,54 @@
+[
+  {
+    "id": "9b7d8660-b60c-4c26-ae35-9621f0e44c68",
+    "data": [
+      {
+        "text": "Make a new order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bebb2d82-e8df-4b16-9018-b431a44ab930",
+    "data": [
+      {
+        "text": "Start a new order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "14df61d8-68c5-4db9-bae4-f427d45e9a36",
+    "data": [
+      {
+        "text": "Place new order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fe6729b6-b513-4e39-8e5a-fba49199c2fc",
+    "data": [
+      {
+        "text": "new order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

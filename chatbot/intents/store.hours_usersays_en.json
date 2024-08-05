@@ -1,0 +1,119 @@
+[
+  {
+    "id": "75b67974-7ded-45da-8543-cd8441239435",
+    "data": [
+      {
+        "text": "What are your shop\u0027s hours of operation?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f091dd62-9930-4967-a357-daf0e88a360e",
+    "data": [
+      {
+        "text": "When can I visit your store?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "31ea9f16-e963-4630-aea2-d13ad7a9c1b6",
+    "data": [
+      {
+        "text": "What are the business hours for your store?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6977e003-6700-4a42-a61b-5df5bd2e1a03",
+    "data": [
+      {
+        "text": "What are the operating hours of your store?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "143ac582-ded8-4504-bc46-807ae051e76e",
+    "data": [
+      {
+        "text": "Could you let me know your store hours?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b46e21b2-4aa0-48cd-83cf-b70110f3e02f",
+    "data": [
+      {
+        "text": "When is your store open?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7327ea5f-4275-4a88-8de6-a058688636b5",
+    "data": [
+      {
+        "text": "What time does your store open?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c19dfc79-b5d6-4c96-938e-20cbc6d23693",
+    "data": [
+      {
+        "text": "Can you tell me the opening hours of your store?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8fcdcb94-f592-4157-b43c-bf0a3d80692c",
+    "data": [
+      {
+        "text": "What are your store\u0027s opening hours?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
